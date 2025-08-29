@@ -1,0 +1,14 @@
+# Virtual environments
+llamain/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Local data folder
+data/
+

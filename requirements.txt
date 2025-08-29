@@ -1,0 +1,10 @@
+numpy<2.0
+scikit-learn
+scipy
+matplotlib
+llama-index
+chromadb
+openai
+huggingface-hub
+tiktoken
+python-dotenv
